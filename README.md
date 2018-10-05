@@ -1,11 +1,13 @@
 
-# Database Basics 
+# SQL Database Basics 
 
 ## Introduction
 
 We'll cover how to create and delete database tables in SQLite as well as how to add columns to an existing table.  
 
 ## Objectives
+
+You will be able to:
 
 * Understand the structure of a table in a relational database
 
@@ -212,15 +214,6 @@ cursor.execute('''DROP TABLE cats;''')
 # drop table here
 ```
 
-And that's it!
+## Summary
 
--<a href='https://learn.co/lessons/sql-database-basics-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
-
-<a href='https://www.sqlite.org/lang_keywords.html'>SQL KEYWORDS</a>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-database-basics-readme' title='Database Basics'>Database Basics</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-database-basics-readme'>SQL Database Basics</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/sql-database-basics-readme'>SQL Database Basics</a> on Learn.co and start learning to code for free.</p>
-
+That's it for now! In this lesson, you learned how to create and delete database tables in SQLite as well as how to add columns to an existing table.
